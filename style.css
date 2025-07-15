@@ -48,7 +48,7 @@ img {
     grid-row: 2 / 4;
     grid-column: 3 / 4;
 }
-
+/*didn't make it responsive yet*/
 /*@media (min-width: 475px) {
     .image-grid {
         max-width: 475px;
